@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.exe
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.deps.json
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.runtimeconfig.json
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.dll
+C:\Users\Hp\source\repos\aszx\aszx\bin\Debug\netcoreapp3.1\aszx.pdb
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.AssemblyInfo.cs
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.dll
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.pdb
+C:\Users\Hp\source\repos\aszx\aszx\obj\Debug\netcoreapp3.1\aszx.genruntimeconfig.cache
